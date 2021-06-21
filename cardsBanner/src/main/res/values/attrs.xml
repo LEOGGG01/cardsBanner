@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardsBannerView">
+        <attr name="visibleCount" format="integer" />
+        <attr name="levelOneOutOffsetRatio" format="float" />
+        <attr name="minScale" format="float" />
+        <attr name="maxAlpha" format="float" />
+        <attr name="minAlpha" format="float" />
+        <attr name="layerScale" format="float" />
+        <attr name="scrollVelocity" format="float" />
+        <attr name="flingVelocity" format="float" />
+        <attr name="autoScrollFrequency" format="integer" />
+        <attr name="swapLayerVelocity" format="integer" />
+        <attr name="coefficientFriction" format="float" />
+        <attr name="stopAutoScrollScreenOff" format="boolean" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,3 @@
+include ':cardsBanner'
+include ':app'
+rootProject.name = "CardsBanner"
